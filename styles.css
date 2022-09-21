@@ -207,6 +207,10 @@ table {
     
 }
 
+.script .link {
+    text-decoration: none;
+}
+
 .script span {
     background-color: #1769aa;
     padding: 0.1em 0.6em;
